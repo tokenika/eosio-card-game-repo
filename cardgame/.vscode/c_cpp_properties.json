@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "defines": [],
+            "libs": [],
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include",
+                    "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include/eosiolib",
+                    "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include/libc",
+                    "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include/libcxx",
+                    "${workspaceFolder}",
+                    "C:/Workspaces/EOS/eoside/include"
+                ]
+            },
+            "includePath": [
+                "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include",
+                "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include/eosiolib",
+                "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include/libc",
+                "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include/libcxx",
+                "${workspaceFolder}",
+                "C:/Workspaces/EOS/eoside/include"
+            ],
+            "compilerOptions": [],
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
