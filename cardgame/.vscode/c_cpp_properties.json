@@ -5,20 +5,22 @@
                 "databaseFilename": "",
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include",
-                    "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include/eosiolib",
-                    "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include/libc",
-                    "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include/libcxx",
+                    "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.5.0/include",
+                    "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/cartman/opt/boost/include",
+                    "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.5.0/include/eosiolib",
+                    "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.5.0/include/libc",
+                    "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.5.0/include/libcxx",
                     "${workspaceFolder}",
                     "C:/Workspaces/EOS/eoside/include"
                 ]
             },
             "libs": [],
             "includePath": [
-                "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include",
-                "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include/eosiolib",
-                "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include/libc",
-                "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.4.1/include/libcxx",
+                "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.5.0/include",
+                "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/cartman/opt/boost/include",
+                "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.5.0/include/eosiolib",
+                "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.5.0/include/libc",
+                "C:/Users/cartman/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/opt/eosio.cdt/1.5.0/include/libcxx",
                 "${workspaceFolder}",
                 "C:/Workspaces/EOS/eoside/include"
             ],
